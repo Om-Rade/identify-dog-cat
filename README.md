@@ -1,1 +1,2 @@
 # identify-dog-cat
+In the Dog and Cat Project, it is recommended to use a dataset obtained from Kaggle. It is advisable to make use of libraries like TensorFlow and Keras for optimal results. By applying Convolutional Neural Network (CNN) techniques, you can effectively process and categorize images. Consequently, you will be able to make precise predictions regarding whether the animal in the image is a dog or a cat.
